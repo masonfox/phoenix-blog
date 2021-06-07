@@ -1,1 +1,8 @@
-<h1>Hello World</h1>
+<!-- This example requires Tailwind CSS v2.0+ -->
+<h1 class="text-2xl mb-3 font-semibold">Hello World</h1>
+
+<p class="mb-3">Reprehenderit commodo laboris et cupidatat in mollit et aliquip laborum incididunt. Dolor nisi adipisicing fugiat excepteur ullamco nisi minim nostrud ullamco anim proident adipisicing. Amet ex sunt duis Lorem consectetur sunt cupidatat ea et aute minim consequat. Incididunt enim fugiat ad aliqua cillum aute id anim magna elit consectetur amet nulla do. Dolore excepteur sunt incididunt et duis cupidatat.</p>
+
+<p>
+Dolor non voluptate tempor est ad sint tempor consectetur. Ut tempor fugiat occaecat velit laboris esse velit elit ex laboris velit. Cillum quis non nulla nostrud enim amet. Consequat sunt fugiat incididunt ullamco consequat esse eu aliqua culpa aute pariatur. Occaecat nisi esse sunt deserunt aute eiusmod. Irure ex Lorem mollit tempor quis aliqua elit aliquip minim est. Sunt cillum Lorem reprehenderit nostrud culpa tempor est fugiat id deserunt quis.
+</p>
