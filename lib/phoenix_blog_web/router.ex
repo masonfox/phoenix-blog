@@ -38,7 +38,7 @@ defmodule PhoenixBlogWeb.Router do
 
     scope "/" do
       pipe_through :browser
-      live_dashboard "/dashboard", metrics: PhoenixBlogWeb.Telemetry
+      live_dashboard "/dashboard", metrics: PhoenixBlogWeb.Telemetry, ecto_repos: [PhoenixBlog.Repo]
     end
   end
 end
